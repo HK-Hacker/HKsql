@@ -4,4 +4,5 @@ $ cd HKsql
 $ pip install - r requirements.txt
 $ python3 HKsql.py
 # photo
-![IMG_20220118_082652](https://user-images.githubusercontent.com/57058476/149882506-a2578939-0c64-4bdf-818f-ce71179678b9.jpg)
+![Uploading IMG_20220123_223445.jpg…]()
+![Uploading IMG_20220123_223408.jpg…]()
